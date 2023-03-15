@@ -1,0 +1,15 @@
+{
+  "elements" : [ {
+    "combinationType" : "FUNCTION",
+    "elementGroups" : [ ],
+    "elementName" : "WorkflowTask",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false
+  } ],
+  "status" : "ACTIVE",
+  "uniqueName" : "FP_QuoteWF",
+  "validAfter" : "2020-01-01",
+  "workflowType" : "quote"
+}

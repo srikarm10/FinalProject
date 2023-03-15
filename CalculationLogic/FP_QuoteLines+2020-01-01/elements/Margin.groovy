@@ -1,0 +1,1 @@
+return out.InvoicePrice - out.Cost

@@ -1,0 +1,26 @@
+{
+  "elements" : [ {
+    "combinationType" : "FUNCTION",
+    "elementGroups" : [ ],
+    "elementLabel" : "AbortOnSyntaxCheck",
+    "elementName" : "AbortOnSyntaxCheck",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false
+  }, {
+    "combinationType" : "FUNCTION",
+    "elementGroups" : [ ],
+    "elementLabel" : "WorkflowStep",
+    "elementName" : "WorkflowSteps",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false
+  } ],
+  "label" : "Pricelist",
+  "status" : "ACTIVE",
+  "uniqueName" : "pricelist",
+  "validAfter" : "2020-01-01",
+  "workflowType" : "pricelist"
+}

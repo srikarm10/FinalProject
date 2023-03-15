@@ -1,0 +1,40 @@
+<component name="libraryTable">
+  <library name="Pricefx API">
+    <CLASSES>
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/commons-lang3-3.9.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/guava-19.0.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/activation-1.1.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/jackson-core-2.10.3.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/slf4j-simple-1.7.21.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/pojava-3.0.3.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/pricefx-pckg-3.16.0.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/jcl-over-slf4j-1.7.21.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/two-factor-auth-1.0.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/icu4j-57.1.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/domain-pojos-9.4.3.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/jettison-1.3.7.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/searchableOptions-9.3.1451-223.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/pricefx-rest-api-client-1.0-SNAPSHOT.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/logic-core.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/mail-1.4.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/commons-io-2.6.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/datetime-3.0.2.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/okhttp-3.14.9.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/stax-api-1.0.1.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/okio-1.17.2.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/rome-1.0.0.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/joda-time-2.10.1.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/logging-interceptor-3.14.9.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/jackson-annotations-2.10.3.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/jackson-databind-2.10.3.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/MetaModel-core-5.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/core-app-docs-9.1.3-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/pricefx-studio/lib/logic-core-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
